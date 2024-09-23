@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aownt.github.io/gXs/sitemap.gXs.gz
